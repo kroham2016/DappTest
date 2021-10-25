@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/dapptest/static/css/main.5cec4598.chunk.css",
-    "main.js": "/dapptest/static/js/main.fe2ab813.chunk.js",
-    "main.js.map": "/dapptest/static/js/main.fe2ab813.chunk.js.map",
-    "runtime-main.js": "/dapptest/static/js/runtime-main.08fc233f.js",
-    "runtime-main.js.map": "/dapptest/static/js/runtime-main.08fc233f.js.map",
-    "static/js/2.37d53907.chunk.js": "/dapptest/static/js/2.37d53907.chunk.js",
-    "static/js/2.37d53907.chunk.js.map": "/dapptest/static/js/2.37d53907.chunk.js.map",
-    "static/js/3.988363cf.chunk.js": "/dapptest/static/js/3.988363cf.chunk.js",
-    "static/js/3.988363cf.chunk.js.map": "/dapptest/static/js/3.988363cf.chunk.js.map",
+    "main.css": "/dapptest/static/css/main.657250ed.chunk.css",
+    "main.js": "/dapptest/static/js/main.9397b67a.chunk.js",
+    "main.js.map": "/dapptest/static/js/main.9397b67a.chunk.js.map",
+    "runtime-main.js": "/dapptest/static/js/runtime-main.6db9735e.js",
+    "runtime-main.js.map": "/dapptest/static/js/runtime-main.6db9735e.js.map",
+    "static/js/2.805ed628.chunk.js": "/dapptest/static/js/2.805ed628.chunk.js",
+    "static/js/2.805ed628.chunk.js.map": "/dapptest/static/js/2.805ed628.chunk.js.map",
+    "static/js/3.fe8a0187.chunk.js": "/dapptest/static/js/3.fe8a0187.chunk.js",
+    "static/js/3.fe8a0187.chunk.js.map": "/dapptest/static/js/3.fe8a0187.chunk.js.map",
     "index.html": "/dapptest/index.html",
-    "static/css/main.5cec4598.chunk.css.map": "/dapptest/static/css/main.5cec4598.chunk.css.map",
-    "static/js/2.37d53907.chunk.js.LICENSE.txt": "/dapptest/static/js/2.37d53907.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/dapptest/static/media/font.617a0a92.woff"
+    "static/css/main.657250ed.chunk.css.map": "/dapptest/static/css/main.657250ed.chunk.css.map",
+    "static/js/2.805ed628.chunk.js.LICENSE.txt": "/dapptest/static/js/2.805ed628.chunk.js.LICENSE.txt",
+    "static/media/1.00beed9c.png": "/dapptest/static/media/1.00beed9c.png",
+    "static/media/reset.css": "/dapptest/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.08fc233f.js",
-    "static/js/2.37d53907.chunk.js",
-    "static/css/main.5cec4598.chunk.css",
-    "static/js/main.fe2ab813.chunk.js"
+    "static/js/runtime-main.6db9735e.js",
+    "static/js/2.805ed628.chunk.js",
+    "static/css/main.657250ed.chunk.css",
+    "static/js/main.9397b67a.chunk.js"
   ]
 }
